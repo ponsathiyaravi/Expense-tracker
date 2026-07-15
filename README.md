@@ -1,3 +1,7 @@
+## 📸 Project Screenshot
+
+![Expense Tracker](expense-tracker.png)
+
 # 💰 Expense Tracker
 
 A simple and responsive Expense Tracker web application built using HTML, CSS, and JavaScript.
